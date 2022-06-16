@@ -1,10 +1,10 @@
-<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+<div class="container">
+  <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>  
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&fontSize=20)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=header&text=&fontSize=20)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piape)](https://github.com/piape/github-readme-stats)
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piape)](https://github.com/piape/github-readme-stats)
 <br>
 
 
@@ -15,4 +15,6 @@ Contact
 [![kaggle Badge](https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/s245rw/)](https://www.kaggle.com/s245rw/)
 [![Naver e-mail Badge](https://img.shields.io/badge/e_mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pmpkc@naver.com)](mailto:pmpkc@naver.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
+</div>
