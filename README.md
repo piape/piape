@@ -5,6 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piape)](https://github.com/piape/github-readme-stats)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piape)](https://github.com/piape/github-readme-stats)
+<br>
 Contact
 <br>
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://piape.github.io/)](https://piape.github.io/)
@@ -12,4 +13,4 @@ Contact
 [![Naver e-mail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pmpkc@naver.com)](mailto:pmpkc@naver.com)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=footer)
