@@ -9,10 +9,6 @@
   + ***Data/Ai***<br>
   + ***EHS***<br>
   + ***Rehabilitation***<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piape)](https://github.com/piape/github-readme-stats)
-<br>
-
   
 Contact
 <br>
