@@ -13,7 +13,7 @@
 Contact
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s245liu/)](https://www.linkedin.com/in/s245liu/)
-[![kaggle Badge](https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/s245rw/)](https://www.kaggle.com/s245rw/)
+[![kaggle Badge](https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=black&link=https://www.kaggle.com/s245rw/)](https://www.kaggle.com/s245rw/)
 [![Dacon](https://img.shields.io/badge/Dacon-E6E6E6?style=flat-square&logo=Dash&logoColor=blue&link=https://dacon.io/myprofile/444638/home)](https://dacon.io/myprofile/444638/home)
 [![Loud Badge](https://img.shields.io/badge/Loud-FF3008?style=flat-square&logo=Adobe&logoColor=black&link=https://www.loud.kr/m/s245liu)](https://www.loud.kr/m/s245liu)
 [![Naver e-mail Badge](https://img.shields.io/badge/e_mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pmpkc@naver.com)](mailto:pmpkc@naver.com)
