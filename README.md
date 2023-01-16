@@ -13,7 +13,8 @@
   + ***Data/Ai***<br>
 
   
-
+Contact 
+  
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s245liu/)](https://www.linkedin.com/in/s245liu/)
 [![kaggle Badge](https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=black&link=https://www.kaggle.com/s245rw/)](https://www.kaggle.com/s245rw/)
