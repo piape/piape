@@ -3,12 +3,15 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=header&text=&fontSize=20)
 <headers>
-
-  # `EHS-AI`
-
+  
+  
+  + ***Physio***<br>
+  + ***Healthcare***<br>
+  + ***Rehabilitation***<br>  
+  + ***Human factors***<br>
+  + ***Robotics***<br>
   + ***Data/Ai***<br>
-  + ***EHS***<br>
-  + ***Rehabilitation***<br>
+
   
 Contact
 <br>
